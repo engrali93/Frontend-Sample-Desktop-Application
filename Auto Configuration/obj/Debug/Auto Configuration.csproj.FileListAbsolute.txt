@@ -1,0 +1,16 @@
+D:\nordex thesis\Auto Configuration\Auto Configuration\bin\Debug\Auto Configuration.exe.config
+D:\nordex thesis\Auto Configuration\Auto Configuration\bin\Debug\Auto Configuration.exe
+D:\nordex thesis\Auto Configuration\Auto Configuration\bin\Debug\Auto Configuration.pdb
+D:\nordex thesis\Auto Configuration\Auto Configuration\obj\Debug\Auto Configuration.csprojAssemblyReference.cache
+D:\nordex thesis\Auto Configuration\Auto Configuration\obj\Debug\MainWindow.g.cs
+D:\nordex thesis\Auto Configuration\Auto Configuration\obj\Debug\App.g.cs
+D:\nordex thesis\Auto Configuration\Auto Configuration\obj\Debug\Auto Configuration_MarkupCompile.cache
+D:\nordex thesis\Auto Configuration\Auto Configuration\obj\Debug\Auto Configuration_MarkupCompile.lref
+D:\nordex thesis\Auto Configuration\Auto Configuration\obj\Debug\MainWindow.baml
+D:\nordex thesis\Auto Configuration\Auto Configuration\obj\Debug\Auto Configuration.g.resources
+D:\nordex thesis\Auto Configuration\Auto Configuration\obj\Debug\Auto_Configuration.Properties.Resources.resources
+D:\nordex thesis\Auto Configuration\Auto Configuration\obj\Debug\Auto Configuration.csproj.GenerateResource.cache
+D:\nordex thesis\Auto Configuration\Auto Configuration\obj\Debug\Auto Configuration.csproj.CoreCompileInputs.cache
+D:\nordex thesis\Auto Configuration\Auto Configuration\obj\Debug\Auto Configuration.exe
+D:\nordex thesis\Auto Configuration\Auto Configuration\obj\Debug\Auto Configuration.pdb
+D:\nordex thesis\Auto Configuration\Auto Configuration\obj\Debug\Auto_Configuration.winform.Mesaage.resources
