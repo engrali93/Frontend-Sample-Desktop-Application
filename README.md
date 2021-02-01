@@ -10,7 +10,7 @@ Main purpose is to come up with new minimalistic GUI design along check box disb
 
 ## Main Screen
 
-![](Auto Configuration/snapshot/Capture1.JPG)
+![](snapshot/Capture1.JPG)
 
 ##
 
@@ -19,24 +19,24 @@ Main purpose is to come up with new minimalistic GUI design along check box disb
 selecting file is limited by filter so only specific required file type will be show.
 
 
-![](Auto Configuration/snapshot/Capture2.JPG)
+![](snapshot/Capture2.JPG)
 
 ##
 
 ## Check box is shown and will disbale the next field if pre-exisiting file is ticked
 
-![](Auto Configuration/snapshot/Capture3.JPG)
+![](snapshot/Capture3.JPG)
 
 ##
 
 
 ## Upto clicking of generate progress bar will start showing the execution progress
 
-![](Auto Configuration/snapshot/Capture4.JPG)
+![](snapshot/Capture4.JPG)
 
 ##
 
 ## Once the execution completed successful message will appear along aside providing the option to open or show in floder or close.
 
-![](Auto Configuration/snapshot/Capture5.JPG)
+![](snapshot/Capture5.JPG)
 
